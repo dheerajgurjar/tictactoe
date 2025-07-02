@@ -1,4 +1,4 @@
-<!-- # ⭕ Tic-Tac-Toe -->k
+<!-- # ⭕ Tic-Tac-Toe -->k9
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
